@@ -4,34 +4,51 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bb99b59a-c96d-432c-b759-a9d781e8903f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaCoreTasks.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arrays/ArraysTraining.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arrays/Kata.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arrays/MixedSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arrays/SmashWords.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/figuresTaskInheritance/Fluidable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/figuresTaskInheritance/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/figuresTaskInheritance/exceptions/EmptyFigureException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/figuresTaskInheritance/exceptions/IdenticalFiguresException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/figuresTaskInheritance/exceptions/LiquidVolumeException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/figuresTaskInheritance/exceptions/PhysicalConditionException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/figuresTaskInheritance/exceptions/PourOutException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/figuresTaskInheritance/figure/Figure.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/figuresTaskInheritance/figure/cylinder/Cone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/figuresTaskInheritance/figure/cylinder/Cylinder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/figuresTaskInheritance/figure/parallelepiped/Parallelepiped.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/figuresTaskInheritance/figure/pyramid/Pyramid.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/figuresTaskInheritance/figure/pyramid/RegularTriangularPyramid.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/immutableClassExample/ImmutableClassExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oopTasks/Vector.java" afterDir="false" />
+    <list default="true" id="bb99b59a-c96d-432c-b759-a9d781e8903f" name="Changes" comment="Base Commit">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InheritanceTasks/liquidsTask/Experiment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InheritanceTasks/liquidsTask/containers/Container.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InheritanceTasks/liquidsTask/containers/InclinedRoundBasedContainer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InheritanceTasks/liquidsTask/containers/InclinedSquareBasedContainer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InheritanceTasks/liquidsTask/containers/InclinedTriangleBasedContainer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InheritanceTasks/liquidsTask/containers/RoundBasedContainer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InheritanceTasks/liquidsTask/containers/SquareBasedContainer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InheritanceTasks/liquidsTask/containers/TriangleBasedContainer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InheritanceTasks/liquidsTask/liquids/Ethanol.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InheritanceTasks/liquidsTask/liquids/Liquid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InheritanceTasks/liquidsTask/liquids/Petrol.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InheritanceTasks/liquidsTask/liquids/Water.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InheritanceTasks/shopTask/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InheritanceTasks/shopTask/Names.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InheritanceTasks/shopTask/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InheritanceTasks/shopTask/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InheritanceTasks/shopTask/Seller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InheritanceTasks/shopTask/Shop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InheritanceTasks/studentsTask/University.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InheritanceTasks/studentsTask/enums/Department.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InheritanceTasks/studentsTask/enums/Faculty.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InheritanceTasks/studentsTask/enums/FirstNames.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InheritanceTasks/studentsTask/enums/LastNames.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InheritanceTasks/studentsTask/enums/MiddleNames.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InheritanceTasks/studentsTask/persons/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InheritanceTasks/studentsTask/persons/Professor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InheritanceTasks/studentsTask/persons/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/decktask/Deck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/testingTheories/ArrayListVsLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/figuresTaskInheritance/Fluidable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InheritanceTasks/figuresTask/Fluidable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/figuresTaskInheritance/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InheritanceTasks/figuresTask/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/figuresTaskInheritance/exceptions/EmptyFigureException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InheritanceTasks/figuresTask/exceptions/EmptyFigureException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/figuresTaskInheritance/exceptions/IdenticalFiguresException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InheritanceTasks/figuresTask/exceptions/IdenticalFiguresException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/figuresTaskInheritance/exceptions/LiquidVolumeException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InheritanceTasks/figuresTask/exceptions/LiquidVolumeException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/figuresTaskInheritance/exceptions/PhysicalConditionException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InheritanceTasks/figuresTask/exceptions/PhysicalConditionException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/figuresTaskInheritance/exceptions/PourOutException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InheritanceTasks/figuresTask/exceptions/PourOutException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/figuresTaskInheritance/figure/Figure.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InheritanceTasks/figuresTask/figure/Figure.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/figuresTaskInheritance/figure/cylinder/Cone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InheritanceTasks/figuresTask/figure/cylinder/Cone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/figuresTaskInheritance/figure/cylinder/Cylinder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InheritanceTasks/figuresTask/figure/cylinder/Cylinder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/figuresTaskInheritance/figure/parallelepiped/Parallelepiped.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InheritanceTasks/figuresTask/figure/parallelepiped/Parallelepiped.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/figuresTaskInheritance/figure/pyramid/Pyramid.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InheritanceTasks/figuresTask/figure/pyramid/Pyramid.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/figuresTaskInheritance/figure/pyramid/RegularTriangularPyramid.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InheritanceTasks/figuresTask/figure/pyramid/RegularTriangularPyramid.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,6 +83,12 @@
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Victor\Documents\GitHub\javaCoreTasks\src" />
+      <recent name="C:\Users\Victor\Documents\GitHub\javaCoreTasks\src\InheritanceTasks" />
+      <recent name="C:\Users\Victor\Documents\GitHub\javaCoreTasks\src\shopTaskInheritance" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="decktask" />
+      <recent name="testing_theories" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -76,8 +99,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1687358574192</updated>
-      <workItem from="1687358575518" duration="745000" />
+      <workItem from="1687358575518" duration="3162000" />
     </task>
+    <task id="LOCAL-00001" summary="Base Commit">
+      <created>1687359462726</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1687359462726</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -93,5 +124,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Base Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Base Commit" />
   </component>
 </project>
