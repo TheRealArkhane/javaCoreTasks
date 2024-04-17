@@ -4,56 +4,26 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bb99b59a-c96d-432c-b759-a9d781e8903f" name="Changes" comment="Base Commit">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InheritanceTasks/liquidsTask/Experiment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InheritanceTasks/liquidsTask/containers/Container.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InheritanceTasks/liquidsTask/containers/InclinedRoundBasedContainer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InheritanceTasks/liquidsTask/containers/InclinedSquareBasedContainer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InheritanceTasks/liquidsTask/containers/InclinedTriangleBasedContainer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InheritanceTasks/liquidsTask/containers/RoundBasedContainer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InheritanceTasks/liquidsTask/containers/SquareBasedContainer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InheritanceTasks/liquidsTask/containers/TriangleBasedContainer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InheritanceTasks/liquidsTask/liquids/Ethanol.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InheritanceTasks/liquidsTask/liquids/Liquid.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InheritanceTasks/liquidsTask/liquids/Petrol.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InheritanceTasks/liquidsTask/liquids/Water.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InheritanceTasks/shopTask/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InheritanceTasks/shopTask/Names.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InheritanceTasks/shopTask/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InheritanceTasks/shopTask/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InheritanceTasks/shopTask/Seller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InheritanceTasks/shopTask/Shop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InheritanceTasks/studentsTask/University.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InheritanceTasks/studentsTask/enums/Department.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InheritanceTasks/studentsTask/enums/Faculty.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InheritanceTasks/studentsTask/enums/FirstNames.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InheritanceTasks/studentsTask/enums/LastNames.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InheritanceTasks/studentsTask/enums/MiddleNames.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InheritanceTasks/studentsTask/persons/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InheritanceTasks/studentsTask/persons/Professor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InheritanceTasks/studentsTask/persons/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/decktask/Deck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/testingTheories/ArrayListVsLinkedList.java" afterDir="false" />
+    <list default="true" id="bb99b59a-c96d-432c-b759-a9d781e8903f" name="Changes" comment="Base Commit2">
+      <change afterPath="$PROJECT_DIR$/src/numbers/DoubleNumbersTrainingTasks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/numbers/IntNumbersTrainingTasks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/string/StringTrainingTasks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/typesOfSort/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/typesOfSort/InsertionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/typesOfSort/SelectionSort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/figuresTaskInheritance/Fluidable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InheritanceTasks/figuresTask/Fluidable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/figuresTaskInheritance/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InheritanceTasks/figuresTask/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/figuresTaskInheritance/exceptions/EmptyFigureException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InheritanceTasks/figuresTask/exceptions/EmptyFigureException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/figuresTaskInheritance/exceptions/IdenticalFiguresException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InheritanceTasks/figuresTask/exceptions/IdenticalFiguresException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/figuresTaskInheritance/exceptions/LiquidVolumeException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InheritanceTasks/figuresTask/exceptions/LiquidVolumeException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/figuresTaskInheritance/exceptions/PhysicalConditionException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InheritanceTasks/figuresTask/exceptions/PhysicalConditionException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/figuresTaskInheritance/exceptions/PourOutException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InheritanceTasks/figuresTask/exceptions/PourOutException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/figuresTaskInheritance/figure/Figure.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InheritanceTasks/figuresTask/figure/Figure.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/figuresTaskInheritance/figure/cylinder/Cone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InheritanceTasks/figuresTask/figure/cylinder/Cone.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/figuresTaskInheritance/figure/cylinder/Cylinder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InheritanceTasks/figuresTask/figure/cylinder/Cylinder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/figuresTaskInheritance/figure/parallelepiped/Parallelepiped.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InheritanceTasks/figuresTask/figure/parallelepiped/Parallelepiped.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/figuresTaskInheritance/figure/pyramid/Pyramid.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InheritanceTasks/figuresTask/figure/pyramid/Pyramid.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/figuresTaskInheritance/figure/pyramid/RegularTriangularPyramid.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InheritanceTasks/figuresTask/figure/pyramid/RegularTriangularPyramid.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -61,6 +31,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2RWGl5Kv4407DcVy5RcgzhqQgxs" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -69,15 +42,24 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.BubbleSort.executor": "Run",
+    "Application.DoubleNumbersTrainingTasks.executor": "Run",
+    "Application.InsertionSort.executor": "Debug",
+    "Application.NumbersTrainingTasks.executor": "Run",
+    "Application.StringBuilderTrainingTasks.executor": "Run",
+    "Application.StringTrainingTasks.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
+    "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/Victor/Documents/GitHub/javaCoreTasks/src",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)"
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -91,6 +73,14 @@
       <recent name="testing_theories" />
     </key>
   </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-18abd8497189-intellij.indexing.shared.core-IU-241.14494.240" />
+        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-IU-241.14494.240" />
+      </set>
+    </attachedChunks>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -99,7 +89,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1687358574192</updated>
-      <workItem from="1687358575518" duration="3162000" />
+      <workItem from="1687358575518" duration="3779000" />
+      <workItem from="1713203244814" duration="4931000" />
+      <workItem from="1713261616839" duration="19089000" />
     </task>
     <task id="LOCAL-00001" summary="Base Commit">
       <created>1687359462726</created>
@@ -108,7 +100,14 @@
       <option name="project" value="LOCAL" />
       <updated>1687359462726</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Base Commit2">
+      <created>1687361990746</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1687361990746</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -127,6 +126,58 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Base Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Base Commit" />
+    <MESSAGE value="Base Commit2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Base Commit2" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/typesOfSort/BubbleSort.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/typesOfSort/InsertionSort.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/typesOfSort/InsertionSort.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/typesOfSort/InsertionSort.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/typesOfSort/InsertionSort.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/typesOfSort/InsertionSort.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/typesOfSort/InsertionSort.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/typesOfSort/InsertionSort.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/typesOfSort/InsertionSort.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
